@@ -13,7 +13,7 @@ public class TypoCommand extends JPanel {
         win.setSize(825, 600);
         win.setResizable(false);
         win.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        win.setTitle("TypoCommand - Payne");
+        win.setTitle("TypoCommand - Pham");
 
         TypoCommand typo = new TypoCommand(win);
         win.add(typo);
@@ -57,10 +57,6 @@ public class TypoCommand extends JPanel {
     private double level;
     private int presses;
     private int misses;
-    private boolean keyRepeat;
-    private long lastWhen;
-    private long when;
-    private long interval;
 
     public TypoCommand(JFrame win) {
         letters = new ArrayList<>();
@@ -68,7 +64,6 @@ public class TypoCommand extends JPanel {
         lasers = new ArrayList<>();
         pressed = new ArrayList<>();
         window = win;
-        keyRepeat = false;
         setSize(window.getWidth(), window.getHeight());
         setBackground(Color.BLUE);
 
@@ -89,9 +84,6 @@ public class TypoCommand extends JPanel {
         cities.add(city6);
         presses = 0;
         misses = 0;
-        lastWhen = 0;
-        when = 0;
-        interval = 0;
         setFocusable(true);
     }
 

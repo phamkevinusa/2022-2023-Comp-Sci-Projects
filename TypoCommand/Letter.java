@@ -10,7 +10,6 @@ public class Letter {
 	private int letterSize;
 	private int speed;
 	private String letter;
-	private boolean alive, hit;
 	private Color color;
     private int damage;
     private int shrink;
