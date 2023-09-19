@@ -7,11 +7,10 @@
 *_Email: phamkevinusa@gmail.com_
 
 ## Languages & Skills
+* C
 * Java
-* Experience in Python
-* Experience in HTML
-*
-
+* Exposure to Python and HTML
+  
 ## Description
 
 This README is intended to direct viewers of my 
