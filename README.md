@@ -35,3 +35,14 @@ take a look!
   * **Repository:**  https://github.com/phamkevinusa/2022-2023-Comp-Sci-Projects/tree/main/EOY_Pham
   * **Description:**  This Java gui app is a basic typing game. It has different letter types and hitboxes, and a health and level system.
   * **Tools:**  Java
+
+###  App - "Mirror Mirror"
+  <!--* **View Project:**  http://www.insertpage.com-->
+  
+<img align="right" height="270" width="450px" src="https://github.com/phamkevinusa/Comp-Sci-Projects/blob/3c8868f236cbf636bf3bad5570eddda388b57519/Mirror-Mirror/Screenshot%202023-12-30%20153331.png" alt="html" style="vertical-align:top; margin:4px">  
+  
+  * **Repository:**  https://github.com/phamkevinusa/mirror-mirror
+  * **Description:**  This program serves as a proof of concept for a smart mirror, allowing the user to interact with a language model with speech and computer vision input
+  * **Tools:**  Python
+
+    
