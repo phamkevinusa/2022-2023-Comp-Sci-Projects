@@ -9,7 +9,8 @@
 ## Languages & Skills
 * C
 * Java
-* Exposure to Python and HTML
+* Exposure to Python, HTML, CSS
+* Tools: React
   
 ## Description
 
