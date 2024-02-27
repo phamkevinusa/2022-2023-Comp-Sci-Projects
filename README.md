@@ -22,7 +22,7 @@ take a look!
   <!--* **View Project:**  http://www.insertpage.com-->
   
   
-  * **Repository:** [  https://github.com/phamkevinusa/2022-2023-Comp-Sci-Projects/tree/main/EOY_Pham](https://github.com/Tarvisss/RowdyHacks-2024)
+  * **Repository:** [https://github.com/Tarvisss/RowdyHacks-2024](https://github.com/Tarvisss/RowdyHacks-2024)
   * **Description:**  This is a React web app made for the Rowdyhacks 2024 hackathon made with 3 other teammates. It is a place to host a poll with a functional login, although we did not get to implement too much functionality over 24 hours. I worked mainly on front end design components and ux.
   * **Tools:**  React, Tailwind, NextJS
     
