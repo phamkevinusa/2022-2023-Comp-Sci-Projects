@@ -36,9 +36,6 @@ take a look!
   * **Description:**  This Java gui app is a basic recreation of two of the [Human Benchmark](https://humanbenchmark.com/) games.
   * **Tools:**  Java
 
-
-
-    
 ###  Game App - "Typo Command"
   <!--* **View Project:**  http://www.insertpage.com-->
   
