@@ -23,7 +23,7 @@ take a look!
   
   
   * **Repository:** [https://github.com/Tarvisss/RowdyHacks-2024](https://github.com/Tarvisss/RowdyHacks-2024)
-  * **Description:**  This is a React web app made for the Rowdyhacks 2024 hackathon made with 3 other teammates. It is a place to host a poll with a functional login, although we did not get to implement too much functionality over 24 hours. I worked mainly on front end design components and ux.
+  * **Description:**  This is a React web app made for the Rowdyhacks 2024 hackathon made with 3 other teammates. It is a place to host a poll with a functional login, although we did not get to implement too much functionality over 24 hours. I worked mainly on front end design components and UX.
   * **Tools:**  React, Tailwind, NextJS
     
 ###  Game App - "Human Benchmark"
