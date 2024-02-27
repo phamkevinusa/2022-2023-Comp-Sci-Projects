@@ -18,7 +18,7 @@ Github profile to the projects that I feel
 display my skills the best.  Please read on and 
 take a look!
 
-###  React Web App - for Rowdyhacks 2024
+###  React Web App - for RowdyHacks 2024
   <!--* **View Project:**  http://www.insertpage.com-->
   
   
